@@ -8,7 +8,7 @@
     -Basic knowledge in docker/docker-compose is prefferred
 
 ## Task Details:
-Lets make a simple blog app with only the home page functional. a user should be able to
+### Lets make a simple blog app with only the home page functional. a user should be able to:
     -Register using email & password ( use JWT for authentication )
     -Login
     -Create a post
