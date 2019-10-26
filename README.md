@@ -1,29 +1,27 @@
 # Videowiki Test Task:
-
-required technologies:
-    - Nodejs
-    - React
-    - Socket.io
-    - Mongodb
-    - JWT
-    - Basic knowledge in docker/docker-compose is prefferred
+## Required technologies:
+    -Nodejs
+    -React
+    -Socket.io
+    -Mongodb
+    -JWT
+    -Basic knowledge in docker/docker-compose is prefferred
 
 ## Task Details:
-
 Lets make a simple blog app with only the home page functional. a user should be able to
-    - Register using email & password ( use JWT for authentication )
-    - Login
-    - Create a post
-    - Edit his posts
-    - See all posts from other users on home page ( sorted from most recent )
-    - Search and Pagination for post
-    - Like/Dislike a post
-    - see how many likes/dislikes a post have in realtime ( using socketio )
+    -Register using email & password ( use JWT for authentication )
+    -Login
+    -Create a post
+    -Edit his posts
+    -See all posts from other users on home page ( sorted from most recent )
+    -Search and Pagination for post
+    -Like/Dislike a post
+    -see how many likes/dislikes a post have in realtime ( using socketio )
 
 ## Evaluation metrics:
-    - Code hygiene
-    - App Scalability
-    - Is the code structure scalable?
+    -Code hygiene
+    -App Scalability
+    -Is the code structure scalable?
 
 ### To keep the strcture simple, use the `server` directory to have the server side code
 
