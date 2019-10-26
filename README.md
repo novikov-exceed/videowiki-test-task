@@ -2,6 +2,7 @@
 ## Required technologies:
     -Nodejs
     -React
+    -Redux
     -Socket.io
     -Mongodb
     -JWT
