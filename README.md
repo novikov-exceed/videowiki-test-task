@@ -13,9 +13,8 @@
     -Register using email & password ( use JWT for authentication )
     -Login
     -Create a post
-    -Edit his posts
     -See all posts from other users on home page ( sorted from most recent )
-    -Search and Pagination for post
+    -Pagination for post
     -Like/Dislike a post
     -see how many likes/dislikes a post have in realtime ( using socketio )
 
